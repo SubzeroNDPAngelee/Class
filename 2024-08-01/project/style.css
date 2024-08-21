@@ -1,0 +1,63 @@
+* {
+  margin: 0px;
+}
+
+.wrapper {
+  padding: 30px;
+  margin-top: 90px;
+  background-color: rgb(231, 114, 114);
+}
+
+.baris-1 {
+  background-color: yellow;
+  margin-top: 20px;
+  padding: 50px;
+}
+.baris-2 {
+  margin-top: 50px;
+  display: flex;
+  gap: 10px;
+}
+img {
+  width: 100%;
+}
+.baris-3 {
+  background-color: blueviolet;
+  margin-top: 40px;
+  padding: 80px;
+}
+.baris-4 {
+  background-color: burlywood;
+  margin-top: 20px;
+  padding: 100px;
+}
+.baris-5 {
+  background-color: aqua;
+  margin-top: 45px;
+  padding: 25px;
+}
+
+.baris-2-kolom-1,
+.baris-2-kolom-2,
+.baris-2-kolom-3,
+.baris-2-kolom-4,
+.baris-2-kolom-5 {
+  /* height: 30px; */
+  width: 20%;
+}
+
+.baris-2-kolom-1 {
+  background-color: yellow;
+}
+.baris-2-kolom-2 {
+  background-color: green;
+}
+.baris-2-kolom-3 {
+  background-color: red;
+}
+.baris-2-kolom-4 {
+  background-color: blue;
+}
+.baris-2-kolom-5 {
+  background-color: brown;
+}

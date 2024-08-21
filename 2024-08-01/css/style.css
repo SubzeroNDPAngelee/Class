@@ -1,0 +1,18 @@
+div {
+  margin: 100px;
+}
+
+.color {
+  color: aqua;
+}
+
+.size {
+  font-size: 50px;
+}
+#jenis {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.model {
+  font-weight: bold;
+}
