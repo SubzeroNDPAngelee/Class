@@ -1,0 +1,13 @@
+.header {
+    background-color: aqua;
+    height: 300px;
+    margin-bottom: 20px;
+  }
+  .content {
+    background-color: blue;
+    height: 300px;
+  }
+  .footer {
+    background-color: blueviolet;
+    height: 100px;
+  }
