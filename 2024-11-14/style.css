@@ -1,0 +1,20 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.logo img {
+  width: 100px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.detail-produk img {
+  width: 200px;
+}
+
+.detail-produk {
+  margin-bottom: 20px;
+}
